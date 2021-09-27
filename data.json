@@ -1,0 +1,14 @@
+{
+  "head": {
+    "action_type": 1,
+    "action": "create"
+  },
+  "body": {
+    "payload": {
+      "user": {
+        "name": "Test4",
+        "email": "test4@shuttlerock.com"
+      }
+    }
+  }
+}
